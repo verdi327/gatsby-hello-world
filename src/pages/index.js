@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 
 
 export default () => {
-  return <div style={{color: 'purple'}}>
+  return <div style={{color: 'red'}}>
     <Link to='/contact/'>Contact</Link>
     <Header headerText='Index Page!'></Header>
     <p>hope this is worth it</p>
